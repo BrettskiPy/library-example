@@ -68,7 +68,7 @@ curl -X 'GET' \
 ### Retrieving Book By ID
 ```
 curl -X 'GET' \
-  'http://127.0.0.1:8000/books/0' \
+  'http://127.0.0.1:8000/books/{book_id}' \
   -H 'accept: application/json'
 ```
 ### Updating a Book
