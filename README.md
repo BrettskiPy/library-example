@@ -1,7 +1,8 @@
 # Library CRUD Example App
+An example FastAPI CRUD application.
+
 ![Alt text](library.png)
-## Overview
-This Book Management API is developed using FastAPI and Pydantic. It provides a simple way to manage a collection of books, allowing users to create, read, update, and delete book records.
+This is an example book CRUD (Create, Read, Update, Delete) application built with FastAPI and Pydantic. It allows you to manage an books performing various operations. This application also includes tests using Pytest.
 
 ## Features
 - **Create Book**: Add a new book to the collection.
