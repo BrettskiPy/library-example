@@ -1,4 +1,4 @@
-# Library Example API
+# Library CRUD Example App
 ![Alt text](library.png)
 ## Overview
 This Book Management API is developed using FastAPI and Pydantic. It provides a simple way to manage a collection of books, allowing users to create, read, update, and delete book records.
