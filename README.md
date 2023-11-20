@@ -1,6 +1,4 @@
 # Library CRUD Example App
-An example FastAPI CRUD application.
-
 ![Alt text](library.png)
 
 This is an example CRUD (Create, Read, Update, Delete) book application built with FastAPI and Pydantic. It allows you to manage books via a simple to use API. This application also includes test coverage using Pytest.
